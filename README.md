@@ -2,7 +2,7 @@
 
 > A free, research-based, browser-only assessment that maps your personal negotiating style across the **Thomas-Kilmann Conflict Mode Instrument (TKI)** and Professor **G. Richard Shell's** Wharton evaluation grid. 30 forced-choice questions, ~5 minutes, printable PDF report.
 
-**Author:**  [Abdel-Karim Al-Tamimi] (https://www.linkedin.com/in/artamimi) — Research Theme Lead/ Senior Lecturer of Computer Science and Machine Learning
+**Author:**  [Abdel-Karim Al-Tamimi](https://www.linkedin.com/in/artamimi) — Research Theme Lead/ Senior Lecturer of Computer Science and Machine Learning
 
 **Live demo:** https://negotiating-style-assessment.netlify.app/
 
