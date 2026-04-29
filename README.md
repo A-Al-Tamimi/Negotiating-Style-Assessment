@@ -110,7 +110,6 @@ BibTeX:
 The source code in this repository is provided for transparency and academic reference. Unauthorised copying, modification, reverse-engineering, redistribution, or commercial use of the application or its underlying logic is **strictly prohibited** without prior written permission from the author. Educators interested in using the assessment with their classes are encouraged to link to the live URL or to contact the author for permission.
 
 ## Contact
-[Abdel-Karim Al-Tamimi] (https://www.linkedin.com/in/artamimi) — Senior Lecturer of Computer Science and Machine Learning
 
 **Abdel-Karim Al-Tamimi** — Research Theme Lead / Senior Lecturer of Computer Science and Machine Learning
 For collaboration, classroom adoption, or licensing enquiries, please reach out via [LinkedIn](https://www.linkedin.com/in/artamimi).
