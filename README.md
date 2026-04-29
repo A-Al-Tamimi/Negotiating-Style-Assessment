@@ -2,8 +2,10 @@
 
 > A free, research-based, browser-only assessment that maps your personal negotiating style across the **Thomas-Kilmann Conflict Mode Instrument (TKI)** and Professor **G. Richard Shell's** Wharton evaluation grid. 30 forced-choice questions, ~5 minutes, printable PDF report.
 
-**Author:** [Abdel-Karim Al-Tamimi](https://www.linkedin.com/in/abdelkarim-altamimi) — University Professor
+**Author:**  [Abdel-Karim Al-Tamimi] (https://www.linkedin.com/in/artamimi) — Research Theme Lead/ Senior Lecturer of Computer Science and Machine Learning
+
 **Live demo:** https://negotiating-style-assessment.netlify.app/
+
 **License:** Proprietary — All rights reserved © 2026
 
 ---
@@ -14,9 +16,7 @@
 - [Why this exists](#why-this-exists)
 - [Frameworks](#frameworks)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Quick start](#quick-start)
-- [Deployment](#deployment)
 - [Project structure](#project-structure)
 - [Use in the classroom](#use-in-the-classroom)
 - [Privacy](#privacy)
@@ -34,7 +34,7 @@ Everything runs locally in the browser. No accounts, no tracking, no server.
 
 ## Why this exists
 
-I built this for one of my university courses to give students a quick, research-grounded mirror on how they show up at the bargaining table — before we get into theory, role-plays, and case work. It's open to anyone (educators, managers, founders, lawyers, consultants, students) who wants a fast self-assessment built on respected frameworks rather than pop-psychology shortcuts.
+I built this for one of my university courses to give students a quick, research-grounded mirror on how they show up at the bargaining table, before we get into theory, role-plays, and case work. It's open to anyone (educators, managers, founders, lawyers, consultants, students) who wants a fast self-assessment built on respected frameworks rather than pop-psychology shortcuts.
 
 ## Frameworks
 
@@ -59,47 +59,15 @@ This project is **not** affiliated with, endorsed by, or licensed from CPP / The
 - **Zero tracking, zero accounts** — runs entirely in your browser; nothing is sent anywhere.
 - **Accessible** — semantic HTML, focus states, sufficient colour contrast, screen-reader-friendly labels.
 
-## Screenshots
-
-> Add screenshots here after deployment, e.g. `docs/screenshot-welcome.png`, `docs/screenshot-results.png`.
-
 ## Quick start
 
 This is a pure static site — no build tools, no dependencies to install.
-
-```bash
-# clone
-git clone https://github.com/<your-username>/negotiating-style-assessment.git
-cd negotiating-style-assessment
-
-# serve locally (any static server works)
-python3 -m http.server 8080
-# or
-npx serve .
-```
-
-Then open http://localhost:8080 in your browser.
-
-## Deployment
-
-The site ships as static HTML, CSS, and JavaScript. Deploy to any static host:
-
-- **Netlify** — drop the folder onto netlify.com or connect the repo. `netlify.toml` is included with sensible security headers.
-- **GitHub Pages** — Settings → Pages → deploy from `main` branch root.
-- **Vercel** — `vercel deploy` from the project root.
-- **Cloudflare Pages**, **AWS S3 + CloudFront**, or any CDN that serves static files.
-
-After deploying, do a project-wide find-and-replace of the placeholder URL `https://negotiating-style-assessment.netlify.app/` with your actual production URL. The placeholder appears in `index.html` (canonical, Open Graph, JSON-LD), `sitemap.xml`, and `robots.txt`.
 
 ## Project structure
 
 ```
 .
-├── index.html          # Single-file app: markup, styles, and the obfuscated logic bundle
-├── netlify.toml        # Static-hosting config + security headers
-├── robots.txt          # Search-engine directives
-├── sitemap.xml         # Sitemap for indexing
-├── LinkedIn_Post.md    # Ready-to-use launch announcement drafts
+├── index.html          # Single-file app: markup, styles, and the logic bundle
 └── README.md           # You are here
 ```
 
@@ -121,7 +89,7 @@ The assessment runs entirely in your browser. **No answers, names, or results ar
 
 If you reference this assessment in academic, training, or published work, please cite:
 
-> Al-Tamimi, A.-K. (2026). *Negotiating Style Assessment* [Web application]. Retrieved from https://negotiating-style-assessment.netlify.app/
+> Al-Tamimi, A. (2026). *Negotiating Style Assessment* [Web application]. Retrieved from https://negotiating-style-assessment.netlify.app/
 
 BibTeX:
 
@@ -142,9 +110,10 @@ BibTeX:
 The source code in this repository is provided for transparency and academic reference. Unauthorised copying, modification, reverse-engineering, redistribution, or commercial use of the application or its underlying logic is **strictly prohibited** without prior written permission from the author. Educators interested in using the assessment with their classes are encouraged to link to the live URL or to contact the author for permission.
 
 ## Contact
+[Abdel-Karim Al-Tamimi] (https://www.linkedin.com/in/artamimi) — Senior Lecturer of Computer Science and Machine Learning
 
-**Abdel-Karim Al-Tamimi** — University Professor
-For collaboration, classroom adoption, or licensing enquiries, please reach out via [LinkedIn](https://www.linkedin.com/in/abdelkarim-altamimi) or email.
+**Abdel-Karim Al-Tamimi** — Research Theme Lead / Senior Lecturer of Computer Science and Machine Learning
+For collaboration, classroom adoption, or licensing enquiries, please reach out via [LinkedIn](https://www.linkedin.com/in/artamimi).
 
 ---
 
