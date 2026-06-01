@@ -38,7 +38,7 @@ I built this for one of my university courses to give students a quick, research
 
 ## Frameworks
 
-This instrument is informed by — and pays explicit credit to — two foundational works in negotiation and conflict scholarship:
+This instrument is informed by, and pays explicit credit to, two foundational works in negotiation and conflict scholarship:
 
 | Framework | Authors | Source |
 |---|---|---|
@@ -111,8 +111,12 @@ The source code in this repository is provided for transparency and academic ref
 
 ## Contact
 
-**Abdel-Karim Al-Tamimi** — Research Theme Lead / Senior Lecturer of Computer Science and Machine Learning
+**Abdel-Karim Al-Tamimi** — Research Theme Lead (GenAI fo Social Good)
 For collaboration, classroom adoption, or licensing enquiries, please reach out via [LinkedIn](https://www.linkedin.com/in/artamimi).
+
+GitHub: [github.com/A-Al-Tamimi](https://github.com/A-Al-Tamimi)
+
+Google Scholar: [GoogleScholar/Abdel-Karim Al-Tamimi](https://scholar.google.com/citations?user=oVygx30AAAAJ)
 
 ---
 
